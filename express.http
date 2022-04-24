@@ -8,7 +8,7 @@ Content-Type: application/json
 
  {
     "_id": 8, 
-    "item": "Marathon Bar", 
+    "name": "userAge", 
     "price": 0.9, 
     "quantity": 20 
 } 
