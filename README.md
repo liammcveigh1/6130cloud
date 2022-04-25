@@ -26,6 +26,6 @@ cd week5/
 
 nginx files have been created and configured so to build and load composition type,
 'sudo docker-compose up'
-this can then be testing using the service 
+this can then be tested using the service 
 'lynx http://127.0.01'
 
